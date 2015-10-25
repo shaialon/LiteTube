@@ -1,6 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.tabrisjs.litetube" version="1.0.0">
   <name>LiteTube</name>
+
+   <hook type="after_platform_add" src="scripts/android/afterPlatformAdd.js" />
+    
+  <platform name="android">
+    <preference name="Theme" value="com.tabrisjs.litetube.theme.R.style.Theme_Sandbox" />
+  </platform>
+
+  
   <description>
    The leanset Youtube implementation on the planet. It just frames Youtube. This is useful when you want to stream music and don't want to keep the youtube app in context and the screen lit. Made for my darling wife with love.
   </description>
