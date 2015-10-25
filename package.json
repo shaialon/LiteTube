@@ -3,6 +3,6 @@
   "description": "The leanset Youtube implementation on the planet. It just frames Youtube. This is useful when you want to stream music and don't want to keep the youtube app in context and the screen lit. Made for my darling wife with love.",
   "main": "app.js",
   "dependencies": {
-    "tabris": "1.1.0"
+    "tabris": "1.3.0"
   }
 }
