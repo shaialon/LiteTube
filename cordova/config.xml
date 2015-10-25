@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.tabrisjs.getting.started" version="1.0.0">
+  <name>LiteTube</name>
+  <description>
+   The leanset Youtube implementation on the planet. It just frames Youtube. This is useful when you want to stream music and don't want to keep the youtube app in context and the screen lit. Made for my darling wife with love.
+  </description>
+  <author email="shaialon84@gmail.com" href="https://github.com/shaialon">
+   Tabris.js Team
+  </author>
+</widget>
